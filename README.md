@@ -132,7 +132,7 @@ Applications endpoint supports pagination.
 Example:
 
 ```
-GET /applications?page=1&per_page=5
+GET /applications?page=1&per_page=10
 ```
 
 ---
@@ -148,7 +148,7 @@ Follow the steps below to run this project on your system.
 Download the project from GitHub.
 
 ```
-git clone https://github.com/your-username/ats-integration-microservice.git
+git clone git remote add origin https://github.com/iotiangyanu/ATS-integrations-API
 ```
 
 Navigate to the project folder.
@@ -243,7 +243,7 @@ CLIENT_SECRET
 REFRESH_TOKEN
 ```
 
-Generate an access token using:
+Generate an access token using postman:
 
 ```
 POST https://accounts.zoho.com/oauth/v2/token
