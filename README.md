@@ -148,7 +148,7 @@ Follow the steps below to run this project on your system.
 Download the project from GitHub.
 
 ```
-git clone git remote add origin https://github.com/iotiangyanu/ATS-integrations-API
+git clone https://github.com/ishikachhajed/ATS-integration-platform.git
 ```
 
 Navigate to the project folder.
@@ -369,4 +369,4 @@ Insert sample candidate applications using the POST endpoint and retrieve them u
 ---
 
 # Author
-Gyanesh Dwivedi
+Ishika Chhajed
